@@ -88,7 +88,7 @@ Em todos os verificadores o método é o mesmo: pedir ao Z3 um **contra-exemplo*
 ### Exemplo de execução
 
 ```bash
-python <nome_do_ficheiro>.py
+python multInts_nb.py
 ```
 
 ```
